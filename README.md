@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @neeluhargunani
-- 👀 I’m interested in ...wed development 
+- 👀 I’m interested in ...web development 
 - 🌱 I’m currently learning ...react full stack development
 - 💞️ I’m looking to collaborate on ...full stack development
 - 📫 How to reach me ...7400219129 or neelamh1000@gmail.com
